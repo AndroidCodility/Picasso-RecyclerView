@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
 
         val versions = ArrayList<Version>()
 
-        versions.addAll(Version.getAndroidVersionList(versions))
+        versions.addAll(Version.getAndroidVersionList())
 
         val myAdapter = MyAdapter(versions)
         recyclerView.adapter = myAdapter
