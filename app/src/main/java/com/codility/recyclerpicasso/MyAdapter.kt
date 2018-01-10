@@ -31,12 +31,10 @@ class MyAdapter(private val versionList: ArrayList<Version>) : RecyclerView.Adap
             val textView = itemView.findViewById<TextView>(R.id.textView)
             val imageView = itemView.findViewById<ImageView>(R.id.imageView)
             textView.text = version.name;
-            Log.e("ImageUrl ", version.imageUrl)
-            Picasso.with(itemView.context)
-                    .load(version.imageUrl)
+
+            Picasso.with(itemView.context).load(version.imageUrl)
                     .placeholder(R.mipmap.ic_launcher_round)// optional
                     .error(R.drawable.sync)// optional
-                    .resize(400, 400)// optional
                     .into(imageView);
         }
     }
