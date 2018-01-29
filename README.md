@@ -15,7 +15,7 @@ Picasso V1                                                | Picasso V2
 ![](https://raw.githubusercontent.com/AndroidCodility/Picasso-RecyclerView/master/design/picasso_v1.png?raw=true)  |  ![](https://raw.githubusercontent.com/AndroidCodility/Picasso-RecyclerView/master/design/picasso_v2.png?raw=true)
 
 # Play Video
-[![](https://github.com/AndroidCodility/AndroidCodility/blob/master/design/pica_recyclerview.png?raw=true)](https://youtu.be/53Gv6-TEuoc "Click here to watch")
+[![](https://github.com/AndroidCodility/Picasso-RecyclerView/blob/master/design/pica_recyclerview.png?raw=true)](https://youtu.be/53Gv6-TEuoc "Click here to watch")
 
 # Like Facebook Page
 [![](https://github.com/AndroidCodility/Barchart-Graph/blob/master/design/fb.png?raw=true)](https://www.facebook.com/androidcodility/ "Click here")
